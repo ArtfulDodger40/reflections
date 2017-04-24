@@ -1,0 +1,7 @@
+What happens when you initialise a repository? Why do you need to do it?
+- Git creates a hidden directory, ".git" which stores metadata trackiing commits
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- working area contains work in progress - up to the minute files
+- repository contains commits
+- staging area allows you to add logical changes or combinations of files to bundle into a single logical unit to commit to repository.
