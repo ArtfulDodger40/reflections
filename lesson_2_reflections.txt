@@ -5,3 +5,12 @@ How is the staging area different from the working directory and the repository?
 - working area contains work in progress - up to the minute files
 - repository contains commits
 - staging area allows you to add logical changes or combinations of files to bundle into a single logical unit to commit to repository.
+
+How can you use the staging area to make suure you have one commit per logical change?
+- use git add <filename> to add changed file to the staging area
+- use git diff --staged to make sure of what is in the file in the staging area
+
+What are some situations when branches would be helpful in keeping your history organised? How would branches help?
+- When working on new/experimental version when you want to keep to old version intact
+- Allows you to work independently on both branches
+
