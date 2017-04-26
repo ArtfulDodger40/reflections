@@ -14,3 +14,12 @@ What are some situations when branches would be helpful in keeping your history 
 - When working on new/experimental version when you want to keep to old version intact
 - Allows you to work independently on both branches
 
+How do diagrams help you visualise the branch structure?
+- clearly shows the links back from the tip of the branch to each parent and the branch point for each branch
+
+What is the result of merging two ranches together? Why do we represent the diagram in the way we do?
+- merges all the commits in the two branches, in timestamp order, from both branches.
+- shows the two branches and all the commits for both parents, joined
+
+What are the pros and cons of Git's automatic merging vs always doing merges manually?
+- manual is more complicated and auto will let you know when you've got a conflict.
