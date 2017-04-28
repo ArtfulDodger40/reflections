@@ -5,3 +5,11 @@ local?
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 - You need to be able to choose when to update your local version after checking the updates
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+- A clone is a copy of a repository either on GitHub or your local computer.
+Use when you want to work locally on a project on GitHub
+- A fork is the equivalent of a clone but it is only on GitHub.
+Use when you want your own verson of a GitHub project, on GitHub, for collaboration.
+- A branch is an alternative, labeled set of commits in a repository
+Use when you want to retain the integrity of the Master, but make and test changes to the files
