@@ -13,3 +13,6 @@ Use when you want to work locally on a project on GitHub
 Use when you want your own verson of a GitHub project, on GitHub, for collaboration.
 - A branch is an alternative, labeled set of commits in a repository
 Use when you want to retain the integrity of the Master, but make and test changes to the files
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+- collaborate using emails and redlined docs in Word, which is a complete pain. GitHub would be easier as all the docs are in a repository online, accessible from anywhere and the process is completely managed.
